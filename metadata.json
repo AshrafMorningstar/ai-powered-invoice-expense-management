@@ -1,0 +1,7 @@
+{
+  "name": "SmartInvoice - AI-Powered Expense Management",
+  "description": "Streamlined invoice management app that uses Gemini AI for OCR and automated data extraction, helping you maintain a real-time balance sheet with minimal data entry.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
